@@ -12,7 +12,9 @@ if ( n1 > n2 ){
 console.log('Il primo numero è più alto del secondo');
 console.log(n1);
 
-} else {
+}if ( n2 > n1 ){
     console.log('Il secondo numero è più alto del primo');
 console.log(n2);
+    } else {
+console.log('i numeri sono uguali');
 }
