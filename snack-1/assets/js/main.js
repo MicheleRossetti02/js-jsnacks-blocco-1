@@ -3,10 +3,10 @@
 // Il software stampa il maggiore. 
 
 const n1 = Number(prompt('Inserisci il primo numero' ))
-console.log(n1);
+//console.log(n1);
 
 const n2 = Number(prompt('Inserisci il secondo numero' ))
-console.log(n2);
+//console.log(n2);
 
 if ( n1 > n2 ){
 console.log('Il primo numero è più alto del secondo');
